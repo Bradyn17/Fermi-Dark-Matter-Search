@@ -1,0 +1,11 @@
+# Ignore Data Files
+Data/
+*.fits
+*.FITS
+
+# Ignore Virtual Environment
+venv/
+
+# Ignore Jupyter Checkpoints
+.ipynb_checkpoints/
+__pycache__/
