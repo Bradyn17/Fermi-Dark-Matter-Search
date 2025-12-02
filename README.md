@@ -1,7 +1,7 @@
 **Project Overview:**
 
 This is an astrophysics analysis pipeline designed to detect potential Dark Matter annihilation signals in our galaxy's galactic halo. I used 17 years of telemetry data (2008-2025) from NASA's Fermi Gamma-ray Space Telescope to
-replicate recent research into WIMPs (Weakly Interacting Massive particles). I specifically investigated the prediction of excess gamma rays peaking at around 20 GeV (giga-electronvolts), which is hypothesized to result from 
+replicate recent research into WIMPs (Weakly Interacting Massive Particles). I specifically investigated the prediction of excess gamma rays peaking at around 20 GeV (giga-electronvolts), which is hypothesized to result from 
 the annihilation of dark matter particles.
 
 **Key Results:**
